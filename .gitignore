@@ -5,6 +5,7 @@ dist/
 fixture/
 data/
 /proto/
+*.spec
 
 ### IQ Waveform/Capture
 *.iqw
